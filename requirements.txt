@@ -1,0 +1,6 @@
+python-pptx
+pandas
+numpy
+matplotlib
+seaborn
+pillow
